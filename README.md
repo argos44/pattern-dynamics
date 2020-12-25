@@ -12,3 +12,5 @@ I'm just writing because that was years ago, now it's obsolete anyway. But you m
 The pain was in getting a good measurement calibration (that was the support, and the interrupt communication method). One pixel was a movement, and how many millimiters was in the sensor.... I honestly can't recall.... most of it is .... hahaha
 
 so, if you moved the sensor with a steady even hand, then you got pixel to pixel movement, ok. The error was an erratic jerk, seemingly totally random pixellation... or not?
+
+So, just had to let the cube know when is the error. This implied an assumption, that the hardware had some sort of intelligence. 
