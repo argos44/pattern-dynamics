@@ -14,3 +14,9 @@ The pain was in getting a good measurement calibration (that was the support, an
 so, if you moved the sensor with a steady even hand, then you got pixel to pixel movement, ok. The error was an erratic jerk, seemingly totally random pixellation... or not?
 
 So, just had to let the cube know when is the error. This implied an assumption, that the hardware had some sort of intelligence. 
+
+Getting to know the error is not that difficult. Take three moments (three consecutive pixels, or corresponding movements), get an average, or maybe something better, dunno, because the error is usually impossible to be caused by a sudden movement. Then you'll know it's an error. Just send any information through the interrupt, anything when there is an error.
+
+I'm not sure why it is impossible, it is intuition, I told you I am not that talented with math and computers, as some other people....
+
+You'll also see, that accelaration is also real time....
