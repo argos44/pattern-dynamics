@@ -10,6 +10,23 @@ There is an inherent error in the accuracy of the coordinate transmission from t
 I'm just writing because that was years ago, now it's obsolete anyway. But you might want to use it for theater graphics modeling, attaching the sensors to the arm, etc.....
 
 The pain was in getting a good measurement calibration (that was the support, and the interrupt communication method). One pixel was a movement, and how many millimiters was in the sensor.... I honestly can't recall.... most of it is .... hahaha
+'<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title></title></head><body><p>If its exit status is zero, then the
+    then COMMANDS' list is executed</p>
+
+<pre><code>Otherwise, each `elif COMMANDS' list == or equals to nonthing, or void.
+
+comment :   either this or either that. Calculus solution on geometry, degrees, or relative to &lt;w
+
+paraphrase from Théocritus Von Fácán:
+
+''bohr des biéres mes fnantses......"
+
+"Boozoning alas los biéres sont parvenu......."
+
+"Mark De Lacey casually stred at the fleet commander, and with a grinch smuke, pressed the button to fire the low torpedoes, with the ammunitzn vkkktr"
+</code></pre>
+</body></html> 
+
 
 so, if you moved the sensor with a steady even hand, then you got pixel to pixel movement, ok. The error was an erratic jerk, seemingly totally random pixellation... or not?
 
